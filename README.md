@@ -8,4 +8,4 @@ The project typically involves creating a user interface that allows users to st
 
 Overall, the Wes Bos Challenge 30 project "Native Speech Recognition" is a fun and challenging project that allows web developers to explore the exciting possibilities of speech recognition technology in web applications.
 
-This is the twenty-one project of the JavaScript30 Challenge.  This is a speech synthesis project built with the web speech API to convert text to speech.
+
